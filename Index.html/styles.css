@@ -1,0 +1,11 @@
+.h1{
+    background-color: aqua;
+    text-align: center;
+    margin: 5%;
+    font-size: larger;
+    border-top-right-radius: 10%;
+
+}
+header{
+    image-rendering: auto;
+}
